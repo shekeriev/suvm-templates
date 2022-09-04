@@ -65,7 +65,7 @@ There are just a few virtualization options currently for **Apple M1** based mac
 
 Virtual machine templates can be downloaded via HTTP from here: <https://zahariev.pro/go/lsa-templates>
 
-If you prefer to use torrents, then visit this URL: <https://zahariev.pro/vm/lsa-templates>
+If you prefer to use torrents, then visit this URL: <https://zahariev.pro/vm/torrents/lsa>
 
 Each template file's name follows this structure ***xx-distribution-version.yyy***. Where ***xx*** is the type of the virtualization solution and ***yyy*** is the type of the file - either ***zip*** or ***ova***.
 
